@@ -1,0 +1,42 @@
+New Jersey Hills Media Group: 1214
+New Jersey Hills: 1074
+Tacoma News Tribune: 460
+Belleville News-Democrat: 430
+The Daily Progress: 367
+Lincoln Journal Star: 307
+Cut Bank Pioneer Press: 284
+Hilton Head Island Packet: 263
+The Rome News-Tribune: 231
+Rock Hill Herald: 230
+Marietta Daily Journal: 205
+Fremont Tribune: 196
+Rapid City Journal: 188
+Kansas City Star: 168
+The Advocate: 150
+Press Publications: 148
+The Sun Chronicle: 142
+Tioga Publishing: 125
+The Courier Express: 108
+Northeast Mississippi Daily Journal: 92
+Courier Newspapers: 88
+Lake Tahoe: 54
+Baltimore Sun: 50
+Los Angeles Times: 48
+Columbus Telegram: 48
+Groton Daily Independent: 47
+The Des Moines Register: 46
+Valdosta Daily Times: 40
+Leader-Telegram: 40
+Community Newspaper Group: 39
+Messenger-Inquirer: 38
+The Anniston Star: 25
+Fresno Bee: 25
+The Business Journals: 23
+Daily Gate City: 19
+Dothan Eagle: 17
+The Portland Press Herald: 9
+Summit Daily: 8
+Times-Georgian: 7
+The Quad-City Times: 7
+San Diego Union-Tribune: 6
+
