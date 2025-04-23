@@ -1,3 +1,5 @@
 .venv/
 preprocessed_dataset/
 checkpoint-666/ 
+checkpoint-47/
+.DS_Store

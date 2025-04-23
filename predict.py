@@ -6,7 +6,7 @@ from transformers import DistilBertForSequenceClassification, DistilBertTokenize
 app = Flask(__name__)
 CORS(app)  
 
-model_path = "./checkpoint-666"
+model_path = "./checkpoint-47"
 tokenizer = DistilBertTokenizerFast.from_pretrained(model_path)
 model = DistilBertForSequenceClassification.from_pretrained(model_path)
 
